@@ -3,7 +3,7 @@ REST API example for adding lessons with detailed information
 
 -------
 
-	* JSON request for creating a lesson:   
+* JSON request for creating a lesson:   
 
 ```
 {
@@ -22,7 +22,7 @@ REST API example for adding lessons with detailed information
 }
 ```
   
-	* JSON request for updating a lesson:  
+* JSON request for updating a lesson:  
 
 ```
 {
